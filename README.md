@@ -86,7 +86,6 @@ The notebook was developed in Google Colab with a free T4 GPU. To run it yoursel
 | pandas / numpy | Data manipulation and feature engineering |
 | matplotlib | Charts and visualizations |
 | Streamlit | Web app framework |
-| pyngrok | Public URL tunneling from Colab |
 
 ## Project Structure
 
